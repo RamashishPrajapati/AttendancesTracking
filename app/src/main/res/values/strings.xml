@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AttendancesTracking</string>
+
+    <string name="enable_gps">Enable GPS</string>
+    <string name="required_for_this_app">Required for this app</string>
+    <string name="enable_now">Enable Now</string>
+    <string name="current_time">Current Time</string>
+    <string name="today_s_date">Today\'s date</string>
+    <string name="submit">Submit</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="endday">End Day</string>
+    <string name="startday">Start Day</string>
+    <string name="location_permission_not_granted">Location Permission not granted</string>
+    <string name="start_day_mark_successfully">Start day mark successfully</string>
+    <string name="attendance_not_mark_please_try_again">Attendance not mark please try again</string>
+    <string name="please_mark_start_day">"Please mark start day "</string>
+    <string name="end_day_mark_successfully">End day mark successfully</string>
+    <string name="attendance_already_mark_fro_the_day">Attendance already mark fro the day</string>
+    <string name="please_be_in_range_of_100m_of_company_to_start_day">Please be in range of 100m of company to start day</string>
+    <string name="please_check_your_gps_is_enable">Please check your gps is enable</string>
+    <string name="please_select_company">Please select company</string>
+    <string name="companyname">CompanyName</string>
+    <string name="starttime">Start Time</string>
+    <string name="endtime">End Time</string>
+    <string name="attendance_details">Attendance Details</string>
+</resources>
